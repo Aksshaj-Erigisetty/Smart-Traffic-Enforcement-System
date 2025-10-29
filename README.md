@@ -52,6 +52,7 @@ Each XML file follows the **PASCAL VOC** annotation format. Example structure:
     </bndbox>
   </object>
 </annotation>
+```
 ---
 
 ---
